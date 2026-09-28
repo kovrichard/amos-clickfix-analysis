@@ -1,0 +1,6 @@
+.DS_Store
+docs/*
+*.raw.txt
+*.decoded.txt
+*.annotated.txt
+*.plist.txt

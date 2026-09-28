@@ -1,0 +1,54 @@
+[
+  {
+    "type": "function",
+    "name": "Unresolved_d75d1ba6",
+    "inputs": [
+      {
+        "name": "arg0",
+        "type": "uint256"
+      },
+      {
+        "name": "arg1",
+        "type": "uint0"
+      }
+    ],
+    "outputs": [],
+    "stateMutability": "payable"
+  },
+  {
+    "type": "function",
+    "name": "getOwner",
+    "inputs": [],
+    "outputs": [
+      {
+        "name": "",
+        "type": "address"
+      }
+    ],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
+    "name": "getServerURL",
+    "inputs": [],
+    "outputs": [
+      {
+        "name": "",
+        "type": "bytes"
+      }
+    ],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
+    "name": "transferOwnership",
+    "inputs": [
+      {
+        "name": "arg0",
+        "type": "address"
+      }
+    ],
+    "outputs": [],
+    "stateMutability": "payable"
+  }
+]

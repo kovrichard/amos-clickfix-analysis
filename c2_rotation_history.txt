@@ -1,0 +1,40 @@
+UTC date              block  source         host
+2026-05-01 18:07   86269411  direct setter  rutube.ru
+2026-05-01 18:09   86269464  direct setter  facebook.com
+2026-05-18 02:46   87047231  direct setter  https://vk.com/
+2026-05-18 03:00   87047732  direct setter  xuiaxwx.com
+2026-05-25 13:59   87415908  direct setter  example.com
+2026-05-27 09:47   87506003  direct setter  gesck4m.pro
+2026-06-02 23:02   87829516  direct setter  sj98xe4.xyz
+2026-06-05 01:29   87945305  direct setter  smdh7.surf
+2026-06-05 10:04   87965920  direct setter  citcix6.xyz
+2026-06-06 20:02   88047452  direct setter  hf98x4d.site
+2026-06-22 18:35   88965562  direct setter  sj98xe4.xyz
+2026-06-28 10:41   89292177  direct setter  bduwih8.pro
+2026-06-29 20:10   89372572  direct setter  apdhlhs3.xyz
+2026-06-29 20:14   89372705  direct setter  johncon.my
+2026-06-29 20:14   89372722  direct setter  johncon.my
+2026-06-30 18:23   89425886  direct setter  apdhlhs3.xyz
+2026-07-09 17:03   89941080  direct setter  j9af4sr.guru
+2026-07-18 04:29   90429318  direct setter  okekjaiw.click
+2026-07-19 13:50   90509344  direct setter  8jdjpwka.baby
+2026-07-20 13:06   90565182  direct setter  fbuytf67.click
+2026-07-21 06:22   90606619  direct setter  67sixcebeh.surf
+2026-07-31 16:28   91206870  direct setter  stv4ec5.shop
+2026-08-12 11:42   91886606  direct setter  vg5sgxv.lol
+2026-08-31 17:11   92994178  direct setter  machine628.baby
+2026-09-05 23:06   93296359  HIDDEN write   nsi8kw1r.lol
+2026-09-07 09:50   93379742  direct setter  d9mjs.sbs
+2026-09-10 19:16   93575174  HIDDEN write   jse8x92s.me
+2026-09-18 03:15   93997524  direct setter  namanami.top
+2026-09-22 20:13   94268596  direct setter  electronic72.pro
+2026-09-22 20:47   94269954  direct setter  namanami.top
+2026-09-22 20:47   94269973  direct setter  electronic72.pro
+
+current (block 94316223): electronic72.pro
+archival reads: 179
+
+Hidden writes, routed through MetaMask's Delegation Manager (0xdb9b1e94b5b69df7e401ddbede43491141047db3):
+2026-09-05 23:06  block 93296359  tx 0x67ab184078f9dabfd6781aee77fb46d02c7a1ceecc10221d5e84fc32f167610a  type-4, also installs the EIP-7702 delegation  -> nsi8kw1r.lol
+2026-09-10 19:16  block 93575174  tx 0xcee1d9c9aa824fd184631944c1ddb86cfcc8b3a0c554de429912b0d1b3c22f7e  type-2                                           -> jse8x92s.me
+Owner 0x363aeaf1f67f1fb7abddc3f9806a301f1c64abe3 delegated to MetaMask EIP-7702 Delegator 0x63c0c19a282a1b52b07dd5a65b58948a07dae32b since block 93296359.
