@@ -2,7 +2,7 @@
 
 De-obfuscated samples and analysis of a ClickFix attack that delivered the AMOS
 (Atomic macOS Stealer) backdoor via an EtherHiding loader. Kept for education and
-defense. Full write-up: https://richardkovacs.dev/blog/ive-almost-been-scammed
+defense. Full write-up: https://richardkovacs.dev/blog/reverse-engineering-malware-with-my-ai-agent
 
 > **Warning: this is real malware. Do not run any of it.**
 > The scripts are saved as `.txt` so macOS does not treat them as executable
@@ -36,7 +36,7 @@ stolen. The four task payloads (layer 4) were never delivered and are not here.
 
 The malware samples are in **`samples-encrypted.zip`**, a password-protected
 archive so they are not scanned, indexed, or run by accident. The password is in
-the [blog post](https://richardkovacs.dev/blog/ive-almost-been-scammed), not in
+the [blog post](https://richardkovacs.dev/blog/reverse-engineering-malware-with-my-ai-agent), not in
 this repo. Inside, each script has up to three versions: `raw` (as served),
 `decoded` (mechanically de-obfuscated), and `annotated` (renamed and commented
 for reading):
